@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using static System.Console;
 
 namespace TestingAPPS
 {
@@ -11,6 +12,7 @@ namespace TestingAPPS
         static void Main(string[] args)
         {
             //bloop
+            WriteLine("Hello people!");
         }
     }
 }
