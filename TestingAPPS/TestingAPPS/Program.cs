@@ -11,7 +11,6 @@ namespace TestingAPPS
     {
         static void Main(string[] args)
         {
-            //bloop
             WriteLine("Hello people!");
         }
     }
