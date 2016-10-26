@@ -12,6 +12,7 @@ namespace Hopeful_Wishing
         static void Main(string[] args)
         {
             WriteLine("So excited for next month minus 6 days! xD");
+            WriteLine("What are you excited?");
         }
     }
 }
