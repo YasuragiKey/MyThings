@@ -13,6 +13,8 @@ namespace Hopeful_Wishing
         {
             WriteLine("So excited for next month minus 6 days! xD");
             WriteLine("What are you excited?");
+
+            WriteLine("I deleted the whole conversation");
         }
     }
 }
