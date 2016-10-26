@@ -18,6 +18,9 @@ namespace Hopeful_Wishing
             WriteLine("Heck yeah it is! best part is they happen on the same day XD");
             WriteLine("A bunch of games are coming out in the next" +
                 "few days that are gonna flood the LAN Party");
+            WriteLine("Oh boy. Thats gonna be a slight mess.");
+
+
         }
     }
 }
